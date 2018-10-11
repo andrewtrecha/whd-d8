@@ -308,6 +308,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/bootstrap/assets/javascripts/bootstrap/toucheffects-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/bootstrap/assets/javascripts/bootstrap/toucheffects-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/bootstrap/assets/javascripts/bootstrap/toucheffects.js": {
 		"ft": 64,
 		"ma": 0,
